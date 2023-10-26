@@ -1,5 +1,5 @@
 # L•Garana
-2023 한양대학교 소프트웨어공학 프로젝트
+2023 한양대학교 소프트웨어공학 프로젝트 with LG Pra.L Medihair
 # Proposal
 Hair has held a significant position in human society throughout history. However, with time, issues like environmental pollution, social concerns, and improper use of various chemicals have exacerbated the problem of hair loss among people. This issue is now affecting individuals at a younger age, demonstrating a trend towards earlier onset.    
 
