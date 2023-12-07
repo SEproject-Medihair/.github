@@ -13,3 +13,13 @@ An Hyosung, Dept. of Information System, anhyosung@hanyang.ac.kr
 Zhang Yan, Dept. of Information System, wkddus@hanyang.ac.kr     
 Jeon Hyuna, Dept. of Information System, younghyuna12@hanyang.ac.kr    
 Park Jinwoo, Dept. of Information System, jinwoo220@hanyang.ac.kr
+
+# Members
+| Name | Dept | E-mail | Role |
+|   :---:    |     :---:      |      :---:      |   :---:   |
+| An Hyosung| Dept. of Information Systems     | anhyosung@hanyang.ac.kr    | Frontend Developer|
+| Zhang Yan| Dept. of Information Systems       | wkddus@hanyang.ac.kr     |Frontend Developer<br>UI-UX Designer|
+| Jeon Hyuna| Dept. of Information Systems     |younghyuna12@hanyang.ac.kr    | AI Developer|
+| Park Jinwoo| Dept. of Information Systems     | jinwoo220@hanyang.ac.kr    | Backend Developer|
+
+
