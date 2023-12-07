@@ -8,11 +8,6 @@ With the growing demand for hair loss treatments, various products such as hair 
 However, it is worth noting that treating hair loss is not an overnight process and requires consistent use over time. In order to prevent hair loss patients from giving up on the treatment due to the lack of immediate results, we have added features such as reminders and visualization of the treatment progress comparison chart to the device. These improvements provide users with a more intuitive way to monitor hair loss treatments.   
 
 In addition, we offer personalized prevention and treatment plans based on the user's age and scalp condition. In short, this application is designed to help users treat hair loss more effectively.
-# Members
-An Hyosung, Dept. of Information System, anhyosung@hanyang.ac.kr    
-Zhang Yan, Dept. of Information System, wkddus@hanyang.ac.kr     
-Jeon Hyuna, Dept. of Information System, younghyuna12@hanyang.ac.kr    
-Park Jinwoo, Dept. of Information System, jinwoo220@hanyang.ac.kr
 
 # Members
 | Name | Dept | E-mail | Role |
