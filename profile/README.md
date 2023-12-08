@@ -1,6 +1,6 @@
 # 🌱쑥쑥-SookSook
 **Hair loss care software using Efficientnet-B0 and ChatGPT-4.0 with LG Pra.L Medihair**
-> Software Engineering Project with LG in Hanyang University 2023-2
+> 2023-2 Hanyang University Software Engineering Project with LG Electronics
 
 ![image](https://github.com/SEproject-Medihair/.github/blob/main/profile/img/sooksook.png)
 ## 📖 Proposal
