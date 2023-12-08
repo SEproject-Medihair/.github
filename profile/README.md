@@ -1,7 +1,9 @@
-# 쑥쑥-SookSook
-2023 한양대학교 소프트웨어공학 프로젝트 with LG 
+# 🌱쑥쑥-SookSook
+**Hair loss care software using Efficientnet-B0 and ChatGPT-4.0 with LG Pra.L Medihair**
+> Software Engineering Project with LG in Hanyang University 2023-2
 
-# Proposal
+![image](https://github.com/SEproject-Medihair/.github/blob/main/profile/img/sooksook.png)
+## 📖 Proposal
 Throughout the ages, hair has always occupied an important place in human society. However, over time, environmental pollution, social concerns and the improper use of various chemicals have exacerbated the problem of hair loss. Nowadays, this problem is affecting younger and younger people, showing a trend of earlier age of onset.   
 
 With the growing demand for hair loss treatments, various products such as hair loss shampoos and medications have come into existence. In addition, advances in technology have made it possible to popularize home medical devices. In 2020, South Korea's LG Electronics launched its hair care product, LG Pra.L MediHair, which attracted a lot of attention.
@@ -10,7 +12,7 @@ However, it is worth noting that treating hair loss is not an overnight process 
 
 In addition, we offer personalized prevention and treatment plans based on the user's age and scalp condition. In short, this application is designed to help users treat hair loss more effectively.
 
-# Members
+## 👥 Members
 | Name | Dept | E-mail | Role |
 |   :---:    |     :---:      |      :---:      |   :---:   |
 |An Hyosung| Dept. of Information Systems| anhyosung@hanyang.ac.kr|Frontend Developer|
@@ -18,7 +20,7 @@ In addition, we offer personalized prevention and treatment plans based on the u
 | Jeon Hyuna| Dept. of Information Systems|younghyuna12@hanyang.ac.kr|AI Developer|
 | Park Jinwoo| Dept. of Information Systems|jinwoo220@hanyang.ac.kr|Backend Developer|
 
-# Demo Video
-https://youtu.be/rNlhr3wNPhc?si=qXnknG3ptsrLnkgL
+## 🔗 Link
+**Demo Video:** https://youtu.be/rNlhr3wNPhc?si=qXnknG3ptsrLnkgL
 
 
