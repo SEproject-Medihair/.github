@@ -1,5 +1,6 @@
 # 쑥쑥-SookSook
 2023 한양대학교 소프트웨어공학 프로젝트 with LG 
+
 # Proposal
 Throughout the ages, hair has always occupied an important place in human society. However, over time, environmental pollution, social concerns and the improper use of various chemicals have exacerbated the problem of hair loss. Nowadays, this problem is affecting younger and younger people, showing a trend of earlier age of onset.   
 
@@ -12,9 +13,12 @@ In addition, we offer personalized prevention and treatment plans based on the u
 # Members
 | Name | Dept | E-mail | Role |
 |   :---:    |     :---:      |      :---:      |   :---:   |
-| An Hyosung| Dept. of Information Systems     | anhyosung@hanyang.ac.kr    | Frontend Developer|
-| Zhang Yan| Dept. of Information Systems       | wkddus@hanyang.ac.kr     |Frontend Developer<br>UI-UX Designer|
-| Jeon Hyuna| Dept. of Information Systems     |younghyuna12@hanyang.ac.kr    | AI Developer|
-| Park Jinwoo| Dept. of Information Systems     | jinwoo220@hanyang.ac.kr    | Backend Developer|
+|An Hyosung| Dept. of Information Systems| anhyosung@hanyang.ac.kr|Frontend Developer|
+|Zhang Yan| Dept. of Information Systems| wkddus@hanyang.ac.kr|Frontend Developer<br>UI-UX Designer|
+| Jeon Hyuna| Dept. of Information Systems|younghyuna12@hanyang.ac.kr|AI Developer|
+| Park Jinwoo| Dept. of Information Systems|jinwoo220@hanyang.ac.kr|Backend Developer|
+
+# Demo Video
+https://youtu.be/rNlhr3wNPhc?si=qXnknG3ptsrLnkgL
 
 
