@@ -1,6 +1,7 @@
 # 🌱쑥쑥-SookSook
 **Hair loss care software using Efficientnet-B0 and ChatGPT-4.0 with LG Pra.L Medihair**  
-> 딥러닝 모델 Efficientnet-B0부터 생성형 AI ChatGPT-4.0까지 **모발 분석 & 치료 솔루션** 제공해주는 나만의 맞춤형 탈모관리비서
+> 딥러닝 모델 Efficientnet-B0부터 생성형 AI ChatGPT-4.0까지 **모발 분석 & 치료 솔루션** 제공해주는 나만의 맞춤형 탈모관리비서  
+
 > 2023-2 Hanyang University Software Engineering Project with LG Electronics
 ![image](https://github.com/SEproject-Medihair/.github/blob/main/profile/img/sooksook.png)
 
