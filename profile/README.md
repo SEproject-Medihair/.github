@@ -1,8 +1,15 @@
 # 🌱쑥쑥-SookSook
-**Hair loss care software using Efficientnet-B0 and ChatGPT-4.0 with LG Pra.L Medihair**
+**Hair loss care software using Efficientnet-B0 and ChatGPT-4.0 with LG Pra.L Medihair**  
+> 딥러닝 모델 Efficientnet-B0부터 생성형 AI ChatGPT-4.0까지 **모발 분석 & 치료 솔루션** 제공해주는 나만의 맞춤형 탈모관리비서
+
 > 2023-2 Hanyang University Software Engineering Project with LG Electronics
 
 ![image](https://github.com/SEproject-Medihair/.github/blob/main/profile/img/sooksook.png)
+
+## 🔗 Demo video
+[![](https://i.ytimg.com/vi/rNlhr3wNPhc/maxresdefault.jpg)](https://www.youtube.com/watch?v=rNlhr3wNPhc "")
+
+
 ## 📖 Proposal
 Throughout the ages, hair has always occupied an important place in human society. However, over time, environmental pollution, social concerns and the improper use of various chemicals have exacerbated the problem of hair loss. Nowadays, this problem is affecting younger and younger people, showing a trend of earlier age of onset.   
 
@@ -19,11 +26,5 @@ In addition, we offer personalized prevention and treatment plans based on the u
 |Zhang Yan| Dept. of Information Systems| wkddus@hanyang.ac.kr|Frontend Developer<br>UI-UX Designer|
 | Jeon Hyuna| Dept. of Information Systems|younghyuna12@hanyang.ac.kr|AI Developer|
 | Park Jinwoo| Dept. of Information Systems|jinwoo220@hanyang.ac.kr|Backend Developer|
-
-## 🔗 Demo video
-[![](https://i.ytimg.com/vi/rNlhr3wNPhc/maxresdefault.jpg)](https://www.youtube.com/watch?v=rNlhr3wNPhc "")
-
-**Link:** https://youtu.be/rNlhr3wNPhc
-
 
 
