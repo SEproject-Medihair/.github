@@ -23,4 +23,6 @@ In addition, we offer personalized prevention and treatment plans based on the u
 ## 🔗 Link
 **Demo Video:** https://youtu.be/rNlhr3wNPhc?si=qXnknG3ptsrLnkgL
 
+<iframe width="880" height="495" src="https://www.youtube.com/embed/rNlhr3wNPhc" title="소프트웨어공학설계: AI모발관리비서, 쑥쑥" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
