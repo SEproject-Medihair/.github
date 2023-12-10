@@ -2,8 +2,10 @@
 **Hair loss care software using Efficientnet-B0 and ChatGPT-4.0 with LG Pra.L Medihair**  
 > 딥러닝 모델 Efficientnet-B0부터 생성형 AI ChatGPT-4.0까지 **모발 분석 & 치료 솔루션** 제공해주는 나만의 맞춤형 탈모관리비서  
 
-> 2023-2 Hanyang University Software Engineering Project with LG Electronics
-![image](https://github.com/SEproject-Medihair/.github/blob/main/profile/img/sooksook.png)
+> 2023-2 Hanyang University Software Engineering Project with LG Electronics  
+
+
+![image](https://github.com/SEproject-Medihair/.github/blob/main/profile/img/SookSook.png)
 
 ## 🔗 Demo video
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1702221521/video_to_markdown/images/youtube--rNlhr3wNPhc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=rNlhr3wNPhc "")
