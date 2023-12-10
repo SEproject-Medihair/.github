@@ -20,10 +20,10 @@ In addition, we offer personalized prevention and treatment plans based on the u
 | Jeon Hyuna| Dept. of Information Systems|younghyuna12@hanyang.ac.kr|AI Developer|
 | Park Jinwoo| Dept. of Information Systems|jinwoo220@hanyang.ac.kr|Backend Developer|
 
-## 🔗 Link
+## 🔗 Demo video
 [![](https://i.ytimg.com/vi/rNlhr3wNPhc/maxresdefault.jpg)](https://www.youtube.com/watch?v=rNlhr3wNPhc "")
 
-**Demo Video:** https://youtu.be/rNlhr3wNPhc
+**Link:** https://youtu.be/rNlhr3wNPhc
 
 
 
