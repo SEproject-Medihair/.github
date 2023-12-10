@@ -21,6 +21,7 @@ In addition, we offer personalized prevention and treatment plans based on the u
 | Park Jinwoo| Dept. of Information Systems|jinwoo220@hanyang.ac.kr|Backend Developer|
 
 ## 🔗 Link
+[![](https://i.ytimg.com/vi/rNlhr3wNPhc/maxresdefault.jpg)](https://www.youtube.com/watch?v=rNlhr3wNPhc "")
 **Demo Video:** https://youtu.be/rNlhr3wNPhc?si=qXnknG3ptsrLnkgL
 
 
