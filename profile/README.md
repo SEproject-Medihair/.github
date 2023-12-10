@@ -3,7 +3,7 @@ Hair loss care software using Efficientnet-B0 and ChatGPT-4.0 with **LG Pra.L Me
 딥러닝 모델 **Efficientnet-B0** 부터 생성형 AI **ChatGPT-4.0** 까지 **모발 분석 & 치료 솔루션** 제공해주는 나만의 맞춤형 탈모관리비서 
 
 쑥쑥은 두피 사진을 찍어서 넣기만 하면 **딥러닝모델Efficientnet-B0**로 학습시킨 자체개발 쑥쑥AI의 정확도 높은 모발분석결과를 확인할 수 있습니다. 
-파인튜닝된 GPT 기반 생성형 AI가 이 정밀분석기록을 바탕으로 **상세한 설명**부터 **솔루션, 맞춤형 메디헤어 스케줄**까지 설계해주며, 
+파인튜닝된 GPT 기반 생성형 AI가 이 정밀분석기록을 바탕으로 **상세한 설명**부터 **솔루션, 맞춤형 메디헤어 스케줄**까지 설계해주며,   
 FewShot Learning을 진행한 **GPT-4.0모델**로 만들어진 AI쑥쑥이 챗봇을 통해 다양한 탈모 궁금증을 실시간으로 해결해줍니다.
 
 ![image](https://github.com/SEproject-Medihair/.github/blob/main/profile/img/SookSook.png)
