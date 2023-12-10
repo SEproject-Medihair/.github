@@ -7,7 +7,7 @@
 ![image](https://github.com/SEproject-Medihair/.github/blob/main/profile/img/sooksook.png)
 
 ## 🔗 Demo video
-[![](https://i.ytimg.com/vi/rNlhr3wNPhc/maxresdefault.jpg)](https://www.youtube.com/watch?v=rNlhr3wNPhc "")
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1702221521/video_to_markdown/images/youtube--rNlhr3wNPhc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=rNlhr3wNPhc "")
 
 
 ## 📖 Proposal
