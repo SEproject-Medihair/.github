@@ -13,8 +13,8 @@ Hair loss care software using Efficientnet-B0 and ChatGPT-4.0 with **LG Pra.L Me
 
 ## Links for Documents
 
-- [Link for Document]([https://github.com/4precious/document/blob/main/GoldenC...](https://github.com/SEproject-Medihair/Document/blob/main/SookSook.pdf))
-- [Link for Presentation PPT]([https://github.com/4precious/document/blob/main/presenta...](https://github.com/SEproject-Medihair/Document/blob/main/%EC%91%A5%EC%91%A5_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf))
+- [Link for Document : https://github.com/SEproject-Medihair/Document/blob/main/SookSook.pdf ](https://github.com/SEproject-Medihair/Document/blob/main/SookSook.pdf)
+- [Link for Presentation PPT : https://github.com/SEproject-Medihair/Document/blob/main/%EC%91%A5%EC%91%A5_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf](https://github.com/SEproject-Medihair/Document/blob/main/%EC%91%A5%EC%91%A5_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 ## 📖 Proposal
 Throughout the ages, hair has always occupied an important place in human society. However, over time, environmental pollution, social concerns and the improper use of various chemicals have exacerbated the problem of hair loss. Nowadays, this problem is affecting younger and younger people, showing a trend of earlier age of onset.   
