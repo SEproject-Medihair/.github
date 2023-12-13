@@ -5,7 +5,7 @@ Hair loss care software using Efficientnet-B0 and ChatGPT-4.0 with **LG Pra.L Me
 파인튜닝된 GPT 기반 생성형 AI가 이 정밀분석기록을 바탕으로 **상세한 설명**부터 **솔루션, 맞춤형 메디헤어 스케줄**까지 설계해주며,   
 FewShot Learning을 진행한 **GPT-3.5모델**로 만들어진 AI쑥쑥이 챗봇을 통해 다양한 탈모 궁금증을 실시간으로 해결해줍니다.
 
-![image](https://github.com/SEproject-Medihair/.github/blob/main/profile/img/SookSook.png)
+![image](https://github.com/SEproject-Medihair/.github/blob/main/profile/img/sooksook.png)
 > 2023-2 Hanyang University Software Engineering Project with LG Electronics 
 
 ##  📺 Demo video
