@@ -9,7 +9,7 @@ FewShot Learning을 진행한 **GPT-3.5모델**로 만들어진 AI쑥쑥이 챗�
 > 2023-2 Hanyang University Software Engineering Project with LG Electronics 
 
 ##  📺 Demo video
-[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1702221521/video_to_markdown/images/youtube--rNlhr3wNPhc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=rNlhr3wNPhc "")
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1702617939/video_to_markdown/images/youtube--QaqtlO3Avdo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=QaqtlO3Avdo "")
 
 ## 📁Document & Presentation
 
