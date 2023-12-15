@@ -14,7 +14,7 @@ FewShot Learning을 진행한 **GPT-3.5모델**로 만들어진 AI쑥쑥이 챗�
 ## 📁Document & Presentation
 
 - [Document](https://github.com/SEproject-Medihair/Document/blob/main/SookSook.pdf)
-- [Presentation PPT](https://github.com/SEproject-Medihair/Document/blob/main/%E1%84%8A%E1%85%AE%E1%86%A8%E1%84%8A%E1%85%AE%E1%86%A8_%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+- [Presentation PPT](https://github.com/SEproject-Medihair/Document/blob/main/%EC%91%A5%EC%91%A5_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 ## 📖 Proposal
 Throughout the ages, hair has always occupied an important place in human society. However, over time, environmental pollution, social concerns and the improper use of various chemicals have exacerbated the problem of hair loss. Nowadays, this problem is affecting younger and younger people, showing a trend of earlier age of onset.   
