@@ -34,6 +34,6 @@ In addition, we offer personalized prevention and treatment plans based on the u
 | Park Jinwoo| Dept. of Information Systems|jinwoo220@hanyang.ac.kr|Backend Developer|
 
 ## 🔗 Links
-**Youtube:** [Demo video](https://youtu.be/rNlhr3wNPhc)  
+**Youtube:** [Demo video]([https://youtu.be/rNlhr3wNPhc](https://youtu.be/QaqtlO3Avdo))  
 **Figma:** [UI/UX Design](https://www.figma.com/file/TQvkcv6MngYZaDZarLRHRp/SookSook?type=design&node-id=0%3A1&mode=design&t=dX2A5mWlkP2sPrgB-1)
 
